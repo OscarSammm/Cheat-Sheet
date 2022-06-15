@@ -5,10 +5,13 @@ h1 {
 }
 
 h2 {
+  font-size: 20px;
+  text-align: center;
 }
 
 table {
   width: 400px;
+  text-align: center;
 }
 
 th {
